@@ -9,3 +9,4 @@ Para instalarlo simplemente sigo la guia de github y al terminar la instalación
 
 
 
+Con imagenes : https://drive.google.com/file/d/1J6JHfdoflO_YlvjJDfAcdXrgN_tU50m8/view?usp=sharing
