@@ -1,0 +1,8 @@
+Esta vulnerabilidad se basa en inducir al usuario autenticado a realizar acciones no deseadas.
+LOW
+En el nivel low, exploté esta debilidad manipulando directamente la URL de cambio de contraseña, sin necesidad de saber la contraseña actual. Con esto conseguí cambiar la contraseña de un usuario simplemente accediendo a una url maliciosa.
+
+El nivel médium no entiendo cómo realizarlo
+
+Figura 8: Cambio de contraseña manipulando la url
+
