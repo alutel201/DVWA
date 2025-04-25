@@ -9,4 +9,5 @@ Para instalarlo simplemente sigo la guia de github y al terminar la instalación
 
 ![Figura 1](./imagenes/image1.png)
 ![Figura 2](./imagenes/image2.png)
+
 Con imagenes : https://drive.google.com/file/d/1J6JHfdoflO_YlvjJDfAcdXrgN_tU50m8/view?usp=sharing
