@@ -1,6 +1,6 @@
 Esta sección permite simular un ataque de fuerza bruta sobre el inicio de sesión. En el nivel low, he hecho una prueba manual introduciendo combinaciones comunes de usuario y contraseña, observando cómo no había ningún tipo de protección, ni bloqueo por intentos ni retardo de respuesta.
 
-![Figura 4](../imagenes/image4.png)
+![Figura 4](DVWA/imagenes/image4.png)
 
 
 Figura 4: Prueba de brute force manual
